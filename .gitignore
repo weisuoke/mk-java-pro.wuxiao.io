@@ -1,0 +1,7 @@
+node_modules
+.umi
+.umi-production
+.idea
+dist
+package-lock.json
+yarn.lock

@@ -1,0 +1,28 @@
+{
+  "name": "mk-java-pro.wuxiao.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "dumi dev --port=8030",
+    "build": "dumi build",
+    "deploy": "bash ./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/mk-java-pro.wuxiao.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/mk-java-pro.wuxiao.io/issues"
+  },
+  "homepage": "https://github.com/weisuoke/mk-java-pro.wuxiao.io#readme",
+  "dependencies": {
+    "dumi": "1.1.8"
+  }
+}
